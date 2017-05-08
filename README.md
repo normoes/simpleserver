@@ -9,5 +9,5 @@ change host port to 80 (using docker run):
 docker run -d --rm --net=host -p 80:8080 simple-server
 
 
-
+test it:
 curl -i http://localhost:80
