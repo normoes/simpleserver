@@ -1,6 +1,6 @@
 # simple server
 
-A simple server, that opens a port on a given port (default: 8080).
+A simple server, that listens on a given port (default: 8080).
 
 It is supposed to be used from within a busybox docker container.
 
