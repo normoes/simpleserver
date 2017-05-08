@@ -9,7 +9,7 @@ The HTML shows the creation date.
 When started, 'index.html' is created from 'template_busybox.html'.
 
 
-##start the server
+## start the server
 
 docker:
 
@@ -28,6 +28,6 @@ change host port to 80 (using docker run):
 `docker run -d --rm --net=host -p 80:8080 simple-server`
 
 
-##test the server
+## test the server
 
 `curl -i http://localhost:80`
