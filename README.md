@@ -72,3 +72,8 @@ force remove the container (stop and remove)
 
 ## delete the image
 `docker image rm simple-server`
+
+
+
+## docker version
+This was tested using `docker 1.13` and above.
